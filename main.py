@@ -16,7 +16,7 @@ def perkalian(a,b):
 def pembagian(a,b):
 	total = a / b
 	return total
-
+sdfsdf
 def main():
 	print(penambahan(10,5))
 	print(pengurangan(10,5))
